@@ -1,5 +1,12 @@
 # Social E-commerce Purchase Analysis
 
+## Data Source
+
+Dataset: Social E-commerce Dataset  
+Source: https://www.kaggle.com/datasets/xingkuichenjin/social-ecommerce-data
+
+Note: The dataset is not included in this repository.
+
 ## Problem
 
 Understanding what drives purchase behavior in social e-commerce is critical for improving conversion.
